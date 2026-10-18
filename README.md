@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=%C2%A1Hola!+Soy+Hans+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+y+Sistemas;Desarrollo+web+%7C+Bases+de+datos+%7C+Redes;Ciberseguridad+%7C+Automatizaci%C3%B3n+%7C+Bots+de+Telegram;Aprendiendo+y+construyendo+proyectos+cada+d%C3%ADa)](https://git.io/typing-svg)
 
-![Visitas](https://komarev.com/ghpvc/?username=Hans2M&label=Visitas&color=58a6ff&style=for-the-badge)
+
 [![Perfil](https://img.shields.io/badge/Perfil-Hans2M-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hans2M)
 
 </div>
