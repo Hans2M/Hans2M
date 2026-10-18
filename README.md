@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=200&section=header&text=Hans%20Melendez&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Hans+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+y+Sistemas;Desarrollo+web+%7C+Bases+de+datos+%7C+Redes;Aprendiendo+y+construyendo+proyectos+cada+d%C3%ADa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=%C2%A1Hola!+Soy+Hans+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+y+Sistemas;Desarrollo+web+%7C+Bases+de+datos+%7C+Redes;Ciberseguridad+%7C+Automatizaci%C3%B3n+%7C+Bots+de+Telegram;Aprendiendo+y+construyendo+proyectos+cada+d%C3%ADa)](https://git.io/typing-svg)
 
 ![Visitas](https://komarev.com/ghpvc/?username=Hans2M&label=Visitas&color=58a6ff&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/Hans2M?label=Seguidores&style=for-the-badge&logo=github&color=58a6ff)
+[![Perfil](https://img.shields.io/badge/Perfil-Hans2M-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hans2M)
 
 </div>
 
@@ -14,11 +14,13 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de la **FIIS - Universidad Nacional Agraria de la Selva (UNAS)**, Tingo María, Perú 🇵🇪
-- 💻 Me apasiona el desarrollo web, las bases de datos y las redes
-- 🌱 Actualmente aprendiendo: *(escribe aquí lo que estás aprendiendo)*
-- 🚀 Trabajando en: *(tu proyecto actual)*
+- 💻 Me apasiona el **desarrollo web**, las **bases de datos** y las **redes**
+- 🔐 Me interesa la **ciberseguridad**: aprender cómo se protegen los sistemas, redes y aplicaciones
+- 🤖 Me gusta la **automatización** y crear **bots de Telegram** que resuelvan tareas repetitivas
+- 🌱 Actualmente aprendiendo: **Laravel, Django, Docker y fundamentos de ciberseguridad**
+- 🚀 Trabajando en: **bots de Telegram con Python y proyectos web con bases de datos**
 - 🤝 Abierto a colaborar en proyectos y aprender de la comunidad
-- 📫 Contáctame: *(tu correo o LinkedIn)*
+- 📫 Contáctame: **tucorreo@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
 
 ---
 
@@ -72,6 +74,22 @@
 
 </div>
 
+### 🔐 Ciberseguridad
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+### 🤖 Automatización y bots
+<div align="center">
+
+![Telegram](https://img.shields.io/badge/Bots_de_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Python](https://img.shields.io/badge/Automatizaci%C3%B3n_con_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
 ### 🧰 Herramientas de trabajo
 <div align="center">
 
@@ -114,6 +132,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Hans2M-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hans2M)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
 [![Gmail](https://img.shields.io/badge/Gmail-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Escr%C3%ADbeme-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TU_USUARIO)
 
 <br>
 
