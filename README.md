@@ -20,7 +20,6 @@
 - 🌱 Actualmente aprendiendo: **Laravel, Django, Docker y fundamentos de ciberseguridad**
 - 🚀 Trabajando en: **bots de Telegram con Python y proyectos web con bases de datos**
 - 🤝 Abierto a colaborar en proyectos y aprender de la comunidad
-- 📫 Contáctame: **tucorreo@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
 
 ---
 
